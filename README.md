@@ -1,4 +1,3 @@
-<!-- ⬇⬇⬇ 여기부터 복사해서 GitHub의 README.md(영문 기본)에 붙여넣기 ⬇⬇⬇ -->
 <div align="center">
   <a href="README.md">🇺🇸 English</a> &nbsp;·&nbsp; <a href="README.ko.md">🇰🇷 한국어</a>
 </div>
@@ -66,4 +65,3 @@
   <a href="https://itbo.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=tistory&logoColor=white" alt="Blog" /></a>
   <a href="https://solved.ac/profile/inbo2002"><img src="https://img.shields.io/badge/solved.ac-0076C0?style=for-the-badge" alt="solved.ac" /></a>
 </div>
-<!-- ⬆⬆⬆ 여기까지 복사 ⬆⬆⬆ -->
