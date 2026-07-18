@@ -1,3 +1,4 @@
+
 <div align="center">
   <a href="README.md">🇺🇸 English</a> &nbsp;·&nbsp; <a href="README.ko.md">🇰🇷 한국어</a>
 </div>
@@ -49,11 +50,12 @@
 </div>
 
 ### 🚀 Projects
-> Repositories are in a private organization — summarized here by role & result.
+> Most repositories are private — summarized here by role & result. (SKYSH is public.)
 
 | Project | What it is | Stack | Role / Result |
 |---|---|---|---|
 | **pLAWcess** | Law-school mentoring matching platform | Next.js · PostgreSQL · TS | Backend & **Security** · 🏆 NE:XT award, startup grant |
+| [**SKYSH (故래소)**](https://github.com/SSALMUKTON/SKYSH) | Trade-execution investing companion — a "testament" rule engine | Next.js · Prisma · Gemini | Backend (rule engine + report API) · reached final-round presentation |
 | **BigContest 2025** | Franchise closure early-warning AI | LightGBM · SHAP · Python | Data & modeling (team) |
 | **Yon-Ko AI Hackathon** | Multi-hop RAG with security defense | Upstage Solar LLM | Participant |
 | **LG Aimers** | LLM compression / quantization | W8A8 · KV-cache | ✅ Completed |
