@@ -54,7 +54,7 @@
 
 | Project | What it is | Stack | Role / Result |
 |---|---|---|---|
-| **pLAWcess** | Law-school mentoring matching platform | Next.js · PostgreSQL · TS | Backend & **Security** · 🏆 NE:XT award, funded campus startup club (₩1M) |
+| [**pLAWcess**](https://www.plawcess.com) | Law-school mentoring matching platform | Next.js · PostgreSQL · TS | Backend & **Security** · 🏆 NE:XT award, funded campus startup club (₩1M) |
 | [**SKYSH (故래소)**](https://github.com/SSALMUKTON/SKYSH) | Trade-execution investing companion — a "testament" rule engine | Next.js · Prisma · Gemini | Backend (rule engine + report API) · reached final-round presentation |
 | **BigContest 2025** | Franchise closure early-warning AI | LightGBM · SHAP · Python | Data & modeling (team) |
 | **Yon-Ko AI Hackathon** | Multi-hop RAG with security defense | Upstage Solar LLM | Participant |
