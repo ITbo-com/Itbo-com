@@ -53,7 +53,7 @@
 
 | 프로젝트                                                   | 내용                       | 스택                        | 역할 / 성과                                |
 | ------------------------------------------------------ | ------------------------ | ------------------------- | -------------------------------------- |
-| [**pLAWcess**](https://www.plawcess.com)                                           | 로스쿨 멘토링 매칭 플랫폼           | Next.js · PostgreSQL · TS | 백엔드·**보안** · 🏆 NE:XT 장려상, 교내 창업 동아리 선정(100만원 지원)        |
+| [**pLAWcess**](https://plawcess.com)                                           | 로스쿨 멘토링 매칭 플랫폼           | Next.js · PostgreSQL · TS | 백엔드·**보안** · 🏆 NE:XT 장려상, 교내 창업 동아리 선정(100만원 지원)        |
 | [**SKYSH (고래소)**](https://github.com/SSALMUKTON/SKYSH) | 투자 "유언장" 규칙 기반 매매 복기 서비스 | Next.js · Prisma · Gemini | 백엔드(규칙엔진·리포트 API) · 대학연합 해커톤 발표 라운드 진출 |
 | **BigContest 2025**                                    | 가맹점 폐업위기 조기경보 AI         | LightGBM · SHAP · Python  | 데이터·모델링 (팀)                            |
 | **연고전 AI 해커톤**                                         | 오염문서 RAG + 보안 방어         | Upstage Solar LLM         | 참가                                     |
