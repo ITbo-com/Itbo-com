@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&center=true&vCenter=true&width=600&color=58A6FF&lines=Security-minded+Full-Stack+Developer;Backend+and+Security+%40+pLAWcess" alt="typing banner" />
 </div>
 
-## 👋 Hi, I'm Song Inbo (송인보)
+## 👋 Who Am I
 
 > **Security-minded full-stack developer** · Computer Science @ Korea University
 
