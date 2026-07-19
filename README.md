@@ -50,7 +50,6 @@
 </div>
 
 ### 🚀 Projects
-> Most repositories are private — summarized here by role & result. (SKYSH is public.)
 
 | Project | What it is | Stack | Role / Result |
 |---|---|---|---|
