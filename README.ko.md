@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&center=true&vCenter=true&width=600&color=58A6FF&lines=%EB%B3%B4%EC%95%88%EC%9D%84+%EC%9D%B4%ED%95%B4%ED%95%98%EA%B3%A0+%EB%A7%8C%EB%93%9C%EB%8A%94+%ED%92%80%EC%8A%A4%ED%83%9D+%EA%B0%9C%EB%B0%9C%EC%9E%90;%EB%B0%B1%EC%97%94%EB%93%9C%C2%B7%EB%B3%B4%EC%95%88+%40+pLAWcess" alt="typing banner" />
 </div>
 
-## 👋 안녕하세요, 송인보입니다
+## 👋 Who Am I
 
 > **보안을 이해하고 직접 만드는 풀스택 개발자** · 고려대학교 컴퓨터학과
 
