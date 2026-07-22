@@ -21,7 +21,6 @@
 - 🥇 **FSI AI Academy Camp** — **Excellence Award** in the team round · financial-LLM red-teaming (Financial Security Institute × Selectstar)
 - 🔐 **Security** — OWASP Top 10 mapping & security audits on pLAWcess
 - 📜 Certs — **Linux Master Lv.1 · Network Administrator Lv.2 · SQLD · Craftsman Information Processing · Craftsman Information Equipment Operation**
-- 🤖 **LG Aimers** — completed LLM compression / quantization track
 
 ### 🛠 Tech Stack
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -42,8 +41,8 @@
 ### 📊 GitHub
 <div align="center">
   <a href="https://github.com/Itbo-com">
-    <img height="160" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Itbo-com&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=default#gh-light-mode-only" />
-    <img height="160" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Itbo-com&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=github_dark#gh-dark-mode-only" />
+    <img height="160" alt="GitHub Stats" src="https://github-readme-stats-itbo-coms-projects.vercel.app/api?username=Itbo-com&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=default#gh-light-mode-only" />
+    <img height="160" alt="GitHub Stats" src="https://github-readme-stats-itbo-coms-projects.vercel.app/api?username=Itbo-com&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=github_dark#gh-dark-mode-only" />
   </a>
   <a href="https://solved.ac/profile/inbo2002">
     <img height="160" alt="solved.ac" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=inbo2002" />
@@ -55,10 +54,7 @@
 | Project | What it is | Stack | Role / Result |
 |---|---|---|---|
 | [**pLAWcess**](https://plawcess.com) | Law-school mentoring matching platform | Next.js · PostgreSQL · TS | Backend & **Security** · 🏆 NE:XT award, funded campus startup club (₩1M) |
-| [**SKYSH (故래소)**](https://github.com/SSALMUKTON/SKYSH) | Trade-execution investing companion — a "testament" rule engine | Next.js · Prisma · Gemini | Backend (rule engine + report API) · reached final-round presentation |
 | **FSI AI Academy Camp** | Financial-LLM red-teaming (Financial Security Institute × Selectstar) | LLM red-teaming · Guardrails · OWASP LLM Top 10 | 🥇 **Excellence Award (team round)** · individual round 27/34 successful attacks (79% ASR) |
-| **BigContest 2025** | Franchise closure early-warning AI | LightGBM · SHAP · Python | Data & modeling (team) |
-| **Yon-Ko AI Hackathon** | Multi-hop RAG with security defense | Upstage Solar LLM | Participant |
 | **LG Aimers** | LLM compression / quantization | W8A8 · KV-cache | ✅ Completed |
 
 ### 📫 Connect

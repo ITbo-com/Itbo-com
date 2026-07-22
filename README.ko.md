@@ -20,7 +20,6 @@
 - 🥇 **금융보안 AI 아카데미 캠프** — 팀전 **우수상** · 금융 LLM 레드티밍 (금융보안원 × 셀렉트스타)
 - 🔐 **보안** — pLAWcess에서 OWASP Top 10 기반 점검·보안 리포트 작성
 - 📜 자격증 — **리눅스마스터 1급 · 네트워크관리사 2급 · SQLD · 정보처리기능사 · 정보기기운용기능사**
-- 🤖 **LG Aimers** — LLM 경량화·양자화 과정 수료
 
 ### 🛠 기술 스택
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -41,8 +40,8 @@
 ### 📊 GitHub
 <div align="center">
   <a href="https://github.com/Itbo-com">
-    <img height="160" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Itbo-com&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&locale=ko&theme=default#gh-light-mode-only" />
-    <img height="160" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Itbo-com&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&locale=ko&theme=github_dark#gh-dark-mode-only" />
+    <img height="160" alt="GitHub Stats" src="https://github-readme-stats-itbo-coms-projects.vercel.app/api?username=Itbo-com&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&locale=kr&theme=default#gh-light-mode-only" />
+    <img height="160" alt="GitHub Stats" src="https://github-readme-stats-itbo-coms-projects.vercel.app/api?username=Itbo-com&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&locale=kr&theme=github_dark#gh-dark-mode-only" />
   </a>
   <a href="https://solved.ac/profile/inbo2002">
     <img height="160" alt="solved.ac" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=inbo2002" />
@@ -54,10 +53,7 @@
 | 프로젝트                                                   | 내용                       | 스택                        | 역할 / 성과                                |
 | ------------------------------------------------------ | ------------------------ | ------------------------- | -------------------------------------- |
 | [**pLAWcess**](https://plawcess.com)                                           | 로스쿨 멘토링 매칭 플랫폼           | Next.js · PostgreSQL · TS | 백엔드·**보안** · 🏆 NE:XT 장려상, 교내 창업 동아리 선정(100만원 지원)        |
-| [**SKYSH (고래소)**](https://github.com/SSALMUKTON/SKYSH) | 투자 "유언장" 규칙 기반 매매 복기 서비스 | Next.js · Prisma · Gemini | 백엔드(규칙엔진·리포트 API) · 대학연합 해커톤 발표 라운드 진출 |
 | **금융보안 AI 아카데미 캠프**                                    | 금융 LLM 레드티밍 (금융보안원 × 셀렉트스타) | LLM 레드티밍 · 가드레일 · OWASP LLM Top 10 | 🥇 **팀전 우수상** · 개인전 공격 성공 27/34 (ASR 79%) |
-| **BigContest 2025**                                    | 가맹점 폐업위기 조기경보 AI         | LightGBM · SHAP · Python  | 데이터·모델링 (팀)                            |
-| **연고전 AI 해커톤**                                         | 오염문서 RAG + 보안 방어         | Upstage Solar LLM         | 참가                                     |
 | **LG Aimers**                                          | LLM 경량화·양자화              | W8A8 · KV-cache           | ✅ 수료                                   |
 
 ### 📫 연락
