@@ -41,8 +41,7 @@
 ### 📊 GitHub
 <div align="center">
   <a href="https://github.com/Itbo-com">
-    <img height="160" alt="GitHub Stats" src="https://github-readme-stats-itbo-coms-projects.vercel.app/api?username=Itbo-com&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=default#gh-light-mode-only" />
-    <img height="160" alt="GitHub Stats" src="https://github-readme-stats-itbo-coms-projects.vercel.app/api?username=Itbo-com&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=github_dark#gh-dark-mode-only" />
+    <img height="160" alt="GitHub Stats" src="https://github-readme-stats-itbo-coms-projects.vercel.app/api?username=Itbo-com&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=default" />
   </a>
   <a href="https://solved.ac/profile/inbo2002">
     <img height="160" alt="solved.ac" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=inbo2002" />
