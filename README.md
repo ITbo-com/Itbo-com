@@ -18,6 +18,7 @@
 
 ### 🏅 Highlights
 - 🏆 **NE:XT Software Competition** — Encouragement Award (top 8 of 45 teams)
+- 🥇 **FSI AI Academy Camp** — **Excellence Award** in the team round · financial-LLM red-teaming (Financial Security Institute × Selectstar)
 - 🔐 **Security** — OWASP Top 10 mapping & security audits on pLAWcess
 - 📜 Certs — **Linux Master Lv.1 · Network Administrator Lv.2 · SQLD · Craftsman Information Processing · Craftsman Information Equipment Operation**
 - 🤖 **LG Aimers** — completed LLM compression / quantization track
@@ -55,6 +56,7 @@
 |---|---|---|---|
 | [**pLAWcess**](https://plawcess.com) | Law-school mentoring matching platform | Next.js · PostgreSQL · TS | Backend & **Security** · 🏆 NE:XT award, funded campus startup club (₩1M) |
 | [**SKYSH (故래소)**](https://github.com/SSALMUKTON/SKYSH) | Trade-execution investing companion — a "testament" rule engine | Next.js · Prisma · Gemini | Backend (rule engine + report API) · reached final-round presentation |
+| **FSI AI Academy Camp** | Financial-LLM red-teaming (Financial Security Institute × Selectstar) | LLM red-teaming · Guardrails · OWASP LLM Top 10 | 🥇 **Excellence Award (team round)** · individual round 27/34 successful attacks (79% ASR) |
 | **BigContest 2025** | Franchise closure early-warning AI | LightGBM · SHAP · Python | Data & modeling (team) |
 | **Yon-Ko AI Hackathon** | Multi-hop RAG with security defense | Upstage Solar LLM | Participant |
 | **LG Aimers** | LLM compression / quantization | W8A8 · KV-cache | ✅ Completed |
