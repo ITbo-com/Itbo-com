@@ -52,7 +52,7 @@
 
 | Project | What it is | Stack | Role / Result |
 |---|---|---|---|
-| [**pLAWcess**](https://plawcess.com) | Law-school mentoring matching platform | Next.js · PostgreSQL · TS | Backend & **Security** · 🏆 NE:XT award, funded campus startup club (₩1M) |
+| [**pLAWcess**](https://plawcess.com) | Law-school mentoring matching platform | Next.js · PostgreSQL · TS | Backend & **Security** · 🏆 NE:XT award, funded campus startup club |
 | **FSI AI Academy Camp** | Financial-LLM red-teaming (Financial Security Institute × Selectstar) | LLM red-teaming · Guardrails · OWASP LLM Top 10 | 🥇 **Excellence Award (team round)** · individual round 27/34 successful attacks (79% ASR) |
 | **LG Aimers** | LLM compression / quantization | W8A8 · KV-cache | ✅ Completed |
 
