@@ -12,7 +12,7 @@
 > **Security-minded full-stack developer** · Computer Science @ Korea University
 
 - 🔐 **Backend & security** engineer — I care about how systems break, and building them so they don't.
-- 🧩 Full-stack across web (Next.js).
+- 🧩 Backend (Next.js).
 - 🏆 Built **pLAWcess** (law-school mentoring platform) as backend & security — startup-club grant and a software-competition award.
 - 🌱 Currently deepening **information security** (OWASP, system security) and steady algorithm practice.
 
