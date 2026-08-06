@@ -11,7 +11,7 @@
 > **보안을 이해하고 직접 만드는 풀스택 개발자** · 고려대학교 컴퓨터학과
 
 - 🔐 **백엔드·보안** 개발자 — 시스템이 어떻게 뚫리는지 이해하고, 뚫리지 않게 만드는 데 관심이 있습니다.
-- 🧩 웹(Next.js)·앱(Flutter)를 아우르는 풀스택.
+- 🧩 웹(Next.js) BE.
 - 🏆 로스쿨 멘토링 플랫폼 **pLAWcess**를 백엔드·보안으로 개발 — 교내 창업 지원과 소프트웨어 경진대회 수상.
 - 🌱 요즘은 **정보보안**(OWASP·시스템 보안) 심화와 꾸준한 알고리즘 트레이닝.
 
@@ -25,11 +25,8 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-087EA4?style=flat-square&logo=react&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
