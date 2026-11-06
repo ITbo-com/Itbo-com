@@ -16,6 +16,7 @@
 - 🌱 Currently deepening **information security** (OWASP, system security) and steady algorithm practice.
 
 ### 🏅 Highlights
+- 🏅 **GDGoC DevFest 2026 “Tell the Vision” Hackathon** — Encouragement Award (4th of 10 teams) · group-expense settlement run by AI agents — owned payouts & security/privacy
 - 🏆 **NE:XT Software Competition** — Encouragement Award (top 8 of 45 teams)
 - 🥇 **FSI AI Academy Camp** — **Excellence Award** in the team round · financial-LLM red-teaming (Financial Security Institute × Selectstar)
 - 🔐 **Security** — OWASP Top 10 mapping & security audits on pLAWcess
@@ -49,6 +50,7 @@
 | Project | What it is | Stack | Role / Result |
 |---|---|---|---|
 | [**pLAWcess**](https://plawcess.com) | Law-school mentoring matching platform | Next.js · PostgreSQL · TS | Backend & **Security** · 🏆 NE:XT award, funded campus startup club |
+| [**Bill:ION**](https://github.com/orca-svg/agent-settlement) | Group-expense settlement where each person's Gemini agent bills, accepts, disputes and mediates on their behalf | Gemini API · Firebase · Cloud Run · Node.js | Payouts & **Security** — field-level encryption, prompt-injection guard, Firestore rules tests · 🏅 GDGoC DevFest 2026 Encouragement Award |
 | **FSI AI Academy Camp** | Financial-LLM red-teaming (Financial Security Institute × Selectstar) | LLM red-teaming · Guardrails · OWASP LLM Top 10 | 🥇 **Excellence Award (team round)** · individual round 27/34 successful attacks (79% ASR) |
 | **LG Aimers** | LLM compression / quantization | W8A8 · KV-cache | ✅ Completed |
 
